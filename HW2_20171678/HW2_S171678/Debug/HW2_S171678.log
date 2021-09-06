@@ -1,0 +1,16 @@
+﻿  LoadShaders.cpp
+  Simple2DTransformation.cpp
+E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\HW2_S171678\Objects.h(674,76): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\HW2_S171678\Objects.h(675,85): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\HW2_S171678\Objects.h(677,97): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\HW2_S171678\Simple2DTransformation.cpp(162,89): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\HW2_S171678\Simple2DTransformation.cpp(187,34): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\HW2_S171678\Simple2DTransformation.cpp(199,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\HW2_S171678\Simple2DTransformation.cpp(201,63): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\HW2_S171678\Simple2DTransformation.cpp(216,58): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\HW2_S171678\Simple2DTransformation.cpp(245,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\HW2_S171678\Simple2DTransformation.cpp(250,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\HW2_S171678\Simple2DTransformation.cpp(377,35): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\HW2_S171678\Simple2DTransformation.cpp(378,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  HW2_S171678.vcxproj -> E:\School\기초컴퓨터그래픽스\VS repos\HW2_S171678 - 복사본\Debug\HW2_S171678.exe
